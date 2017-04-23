@@ -2,7 +2,7 @@
 
 namespace CoreWithDi.Business.Contracts
 {
-    public class Class1
+    public interface IClass1
     {
     }
 }
